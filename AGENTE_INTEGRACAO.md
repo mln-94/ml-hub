@@ -8,7 +8,7 @@ Matheus Louro possui um ecossistema de apps independentes que se unem via um **h
 | Projeto | Localização local | Repositório GitHub | URL produção |
 |---------|-------------------|--------------------|--------------|
 | **Hub (casca)** | `/Users/matheuslouro/ml-hub` | `mln-94/ml-hub` | `app.matheuslouro.com.br` |
-| **Mentoria** | `/Users/matheuslouro/Desktop/Claude/Skills Matheus/mentoria-app` | *(verificar)* | `mentoria-app-chi.vercel.app` |
+| **Mentoria** | `/Users/matheuslouro/Desktop/Claude/Skills Matheus/mentoria-app` | `mln-94/mentoria` | `mentoria-app-virid.vercel.app` |
 | **Minhas Contas** | `/Users/matheuslouro/minhas-contas` | `mln-94/minhas-contas` | `contas.matheuslouro.com.br` |
 
 ### Arquitetura do Hub
